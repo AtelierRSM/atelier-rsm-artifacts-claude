@@ -1,0 +1,1 @@
+# atelier-rsm-artifacts-claude
